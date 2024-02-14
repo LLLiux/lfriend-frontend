@@ -1,10 +1,10 @@
 <template>
-  <div id="homeView"></div>
+  <div id="basicLayout"></div>
 </template>
 
 <script setup lang="ts"></script>
 
 <style scoped>
-#homeView {
+#basicLayout {
 }
 </style>
